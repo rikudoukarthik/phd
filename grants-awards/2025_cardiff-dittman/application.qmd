@@ -1,120 +1,304 @@
 ---
-title: Cardiff/Dittmann LSU Ornithology Scholarship 2025
-format: pdf
+title: The Cardiff/Dittmann LSU Ornithology Scholarship 2025
+text-align: left
+format: 
+  pdf:
+    mainfont: "Times New Roman"
+    sansfont: "Times New Roman"
+    include-in-header: include-in-header.tex
 ---
 
-**[About the scholarship]{.underline}:** In order to recognize their decades of service to Louisiana Ornithological Society and the Louisiana Bird Records Committee, LOS is honored to offer an annually awarded, one-time scholarship of $2500 that honors the legacies of Steve W. Cardiff and Donna L. Dittmann of the LSU Museum of Natural Science.  
+**[About the scholarship]{.underline}:** In order to recognize their decades of service to Louisiana Ornithological Society and the Louisiana Bird Records Committee, LOS is honored to offer an annually awarded, one-time scholarship of $2500 that honors the legacies of Steve W. Cardiff and Donna L. Dittmann of the LSU Museum of Natural Science. 
 
 **[Eligibility requirements]{.underline}:** This scholarship is open to any undergraduate or graduate student attending Louisiana State University who is pursuing a degree in Ornithology, Biology, or other science with special emphasis on Ornithology. Recipients can only receive the award once. Preference will be given to students whose interests and/or research involves bird species that are regularly found in Louisiana, although any or all of the students’s past or current research or ornithological experience itself may include areas outside Louisiana.  
 
-Recipients must also meet the following criteria:  
-- at least 18 years of age
-- have proof of identification, such as a government issued ID or driver’s license, passport, etc.  
-- keep a Louisiana address during the current academic year
+Recipients must also meet the following criteria: 
+
+- at least 18 years of age 
+- have proof of identification, such as a government issued ID or driver’s license, passport, etc. 
+- keep a Louisiana address during the current academic year 
 - cumulative GPA of at least 3.0 
 
 The bestowal of this award is based on merit of work and applicant potential. LOS will not discriminate based upon race, gender identification, sexual orientation, ethnicity, country of origin, religious affiliation, political affiliation, income, or other matter deemed not to impact the applicant’s potential as an ornithologist or biologist.  LOS encourages eligible applicants of all backgrounds to apply in order to promote diversity.  
+
+\pagebreak
 
 **[Contact Information of Applicant]{.underline}:**
 
 Your first and last name: Karthik Thrikkadeeri
 
-Louisiana mailing address: 
+Louisiana mailing address: 4194 Burbank Drive, 346-A Building 1, Baton Rouge, Louisiana 70808
 
-Permanent address (if different): 
+Permanent address (if different): 422/10, EcoCity, Kousapara, Menonpara PO, Palakkad, Kerala 678556, India
 
-Email address: 
+Email address: kthrik1@lsu.edu
 
-Cell phone number: 
+Cell phone number: +1 2252058756
 
 **[Personal Information]{.underline}:**
 
-Are you at least 18 years of age? Yes
+Are you at least 18 years of age? 
+
+- Yes
 
 ~~If no, will you be at least 18 years of age by the beginning of the immediate fall semester?~~
 
-In which Department of LSU are you currently enrolled?
+In which Department of LSU are you currently enrolled? 
+
+- Department of Biological Sciences; Systematics, Ecology and Evolution Division 
 
 ~~If you are an undergraduate, please specify whether you are a freshman, sophomore, junior, or senior~~
 
 Are you currently a graduate student and, if so, what year, and what degree are you pursuing?
 
+- Yes, I am a graduate student. I started my PhD degree in Spring 2025, so I am still in my first year.
+
 Please give the name, title, and email address of your current academic Advisor or Academic Mentor.
+
+- Flavia A. Montaño-Centellas 
+- Assistant Professor, Department of Biological Sciences, Louisiana State University 
+- fmontano@lsu.edu 
 
 Are you currently or have you been a Pell Grant recipient; please specify which year(s)?
 
+- No.
+
 Are you currently a US citizen? 
 
-If you are an International student, are you studying in Louisiana on a Student Visa?
+- No.
+
+If you are an International student, are you studying in Louisiana on a Student Visa? 
+
+- Yes, I am studying in Louisiana on an F-1 student visa. 
 
 **[Academic Information]{.underline}:**
 
 What high school did you attend and where? 
 
+- Palghat Lions School, in Palakkad, Kerala, India.
+
 What year did you graduate? 
 
-What other college(s) did you attend and where?  Please include degree earned and year.
+- I graduated from high school in 2016.
 
+What other college(s) did you attend and where? Please include degree earned and year.
 
+- I completed my undergradute degree (Bachelor of Science in Biotechnology, Chemistry, Zoology) in 2019 from Christ University, Bengaluru, Karnataka, India. 
+- I completed my postgraduate degree (Master of Science in Ecology) in 2021 from University of South Bohemia, České Budějovice, Czechia. 
 
 Cumulative GPA during pursuit of this degree (on a 4.0 scale): 
 
+- NA (I am in my first semester) but current grade is A+.
+
 Cumulative GPAs of each previous degree: 
 
-What academic achievements or awards have your earned that you feel we should know about?  Please provide school and year:
+- Bachelor of Science: 3.59/4.00 
+- Master of Science: 
+    - No GPA scale in my European university, but *Graduated cum laude* (/Absolvoval s vyznamenáním) 
+    - Grade A (1, excellent/výborně) in Thesis & Final State Examination, with 144 ECTS credits 
 
+What academic achievements or awards have you earned that you feel we should know about? Please provide school and year:
 
+- Graduate study Merit Scholarship of the Ministry of Education, Youth and Sports (University of South Bohemia, October 2020--May 2021) 
+- Rector's Award for outstanding results in study (University of South Bohemia, 25 May 2021) 
+- All-India topper (1st rank) in Ecology and Evolution (EY) aptitude test (Graduate Aptitude Test in Engeering [GATE] 2023)
 
 **[Relevant Experience]{.underline}:**
 
 Please list all relevant experience, along with corresponding year/duration and location (e.g., natural history club membership, training in birding/banding/etc., research positions, technician positions, leadership positions, research expeditions, professional papers given or published, birding/ornithological awards received, grants awarded, employment in birding/ornithology, etc.).  Attach separate page if needed.
 
+# Publications
 
+1. A Viswanathan, **K Thrikkadeeri**, et al. *(2025)*. State of India’s Birds 2023: A framework to leverage semi-structured citizen science for bird conservation. *Accepted in Ecosphere, preprint at bioRxiv: https://doi.org/10.1101/2024.09.05.611348.* 
+1. **K Thrikkadeeri** (2024). *skimmr: Working with eBird data made easy*. R package version 0.0.0.9005. URL: https://rikudoukarthik.github.io/skimmr/ 
+1. **K Thrikkadeeri** & A Viswanathan (2024). Despite short-lived changes, COVID-19 pandemic had minimal large-scale impact on citizen science participation in India. *Ornithological Applications* 126(4). DOI: https://doi.org/10.1093/ornithapp/duae024 
+1. **K Thrikkadeeri**, ..., A Viswanathan (2024). Birdwatchers piecing together *Locustella* jigsaw: Insights on the wintering distribution of the cryptic West Himalayan Bush Warbler *Locustella kashmirensis*. *Indian BIRDS* 20(3). 
+1. L Schillé, ..., **K Thrikkadeeri**, et al. (2024). Latitudinal gradient in avian insectivory: complementary effects of climate, habitat and bird diversity. *Journal of Biogeography* 51(6). DOI: https://doi.org/10.1111/jbi.14808 
+1. **SoIB** (2023). *State of India's Birds, 2023: Range, trends, and conservation status*. The SoIB Partnership. Pp. 119. DOI: https://doi.org/10.5281/zenodo.11124590 
+1. J Praveen, ..., **K Thrikkadeeri**, et al. (2022). Kerala Bird Atlas 2015--20: features, outcomes and implications of a citizen-science project. *Current Science* 122(3). 
+1. PU Antony, ..., **K Thrikkadeeri**, et al. (2018). *Butterflies of Christ University Main Campus---A Pictorial Guide*. Centre for Publications, Christ University, Bangalore, India. 
 
+# Work experience
 
+- Nature Conservation Foundation, India 
+    - Research Assistant (2021--23), Senior Research Assistant (2023--24) 
+    - State of India's Birds 2023 
+        - Data analysis, data visualisation, writing (two chapters of report), other website-specific outputs 
+        - Code and data management: pipeline framework with parameterised and annotated scripts; version-controlled on GitHub; ensuring open source, open access and long-term archival 
+        - Editing, proofreading, bibliography management for report 
+    - Analysis of COVID-19 impacts on citizen science (eBirding) in India 
+        - Analysis of impacts on citizen science effort, published in *Ornithological Applications* ([Thrikkadeeri & Viswanathan 2024](https://doi.org/10.1093/ornithapp/duae024 )) 
+        - Analysis of bird responses to anthropause, manuscript in preparation 
+    - Other data science 
+        - Created an R package `skimmr` to simplify repeated tasks and processes when working with eBird data in R in the Indian context ([Thrikkadeeri 2024](https://rikudoukarthik.github.io/skimmr/))
+        - Created a Shiny app based on eBird API that allows the user to generate a summary of the eBirding that happened in a given administrative unit on a given date(s) 
+        - Collated mapping data useful for eBird data analysis in the Indian context---mostly contains open shapefiles of administrative units 
+        - Established a version control (Git/GitHub) workflow for Bird Count India analyses to enable reproducibility as well as transparency 
+        - Created a periodic analysis framework to identify and track regions in India that are most underrepresented in eBird data, in order to identify regions of priority where concerted action (strategised from these metrics) is required 
+        - Created eBirding point maps for the country as well as for each state in India, made easily accessible to users and updated monthly (integrated R, Google Drive and WordPress)
+        - Automated several periodically occurring data analysis tasks of Bird Count India (tracking metrics, results of challenges & birding events [post-hoc from EBD and also live summaries using eBird API and R], etc.) 
+        - Improved eBird data quality in India by creating updated and more fine-scale (district-wise) filters for Tripura state 
+        - Assisted birders with their queries regarding eBird data and how to analyse it for their own studies 
+- Biology Centre of the Czech Academy of Sciences, Czechia 
+    - Part-time employee (2020, 2020--21) 
+    - Calculated herbivory damage from images of collected leaves from Cameroon using ImageJ software 
+    - Collated Kateřina Sam's Papua New Guinea bird datasets spanning c. 4 years and uploaded to eBird 
+- Centre for Ecology Development and Research, India 
+    - Research intern (2018) 
+    - Studied butterfly diversity patterns across a land-use intensification gradient in oak-pine forests of Kumaon Himalayas 
+- Agumbe Rainforest Research Station, India 
+    - Research volunteer (2017) 
+    - Assisted in field work and data entry for a project on breeding ecology of the Yellow-wattled Lapwing 
+
+# Presentations
+
+**Talks:**
+
+- **2023:** *Citizen Science at NCF Field Sites*. Presented with Mittal Gala. (NCF Annual Meet 2023, Mysuru, India.)
+- **2022:** *The impact of the COVID-19 pandemic on birding and birds in India*. (NCF Annual Meet 2022, Mysuru, India.) [Slides online](https://kartrick.netlify.app/ncf-am2022-covid/#1).
+- **2022:** *The impact of the COVID-19 pandemic on birding and birds in India*. (International Ornithological Congress 2022, online.) [Slides online](https://kartrick.netlify.app/ioc-covid/#1).
+- **2019:** *Inventory of butterfly species along a land-use intensification gradient in moist temperate forest biome in Kumaon Himalayas*. (Ecology Seminar, University of South Bohemia, Czechia.)
+- **2018:** *A study on avian diversity in an industrial area of the Palghat Gap*. (National Seminar on Development and Ecological Sustainability: Issues in Emerging India (DESIEI) 2018, Bengaluru, India.)
+
+**Posters:**
+
+- **2022:** *The impact of the COVID-19 pandemic on bird monitoring in India*. (Bird Monitoring Symposium 2022, online.)
+
+# External training
+
+**Birding & banding:**
+
+- Birding experience:
+  - I have been birding (and eBirding) since late 2016. 
+  - I have birded in India for around 7 years across diverse landscapes such as the dry Deccan peninsula, the wet and tropical Western Ghats forests, deciduous forests of Central India, flooded savannah habitats of northern and northeastern India, and more. 
+  - I spent 2 years birding in Central Europe during my master's, covering most habitats in the 14 regions of Czechia, and also enjoyed short birding in Italy and Belgium. 
+  - I have also birded in Tanzania, having done the popular Manyara-Serengeti-Ngorongoro circuit. 
+  - Overall, I have maintained a balance between terrestrial and wetland birding, although I prefer the former. I also like to maintain a balance between consistent local birding and rarity seeking.
+- Banding experience:
+  - I have very little experience in banding, as opportunities in India are extremely limited.
+  - Opportunistic banding of Yellow-wattled Lapwings in Agumbe, Karnataka, India in 2017.
+  - Opportunistic mist-netting on a summer field trip in Czechia, in 2020.
+  - Volunteered for Louisiana Bird Observatory monthly banding at Bluebonnet Swamp Nature Center, in January 2025.
+
+**Skills:**
+
+- Technical:
+  - Quantitative ecology and research design
+  - Data curation, management, processing and wrangling
+  - Reproducibility, version control and transparency in research workflows
+  - Copy editing and proofreading (English)
+- Software:
+  - R, R Markdown & allies, Git & GitHub, Quarto, QGIS
+  - Audacity, MS Office, Google Suite, Canva, ImageJ
+  - ChatGPT, Bard
+- Field techniques:
+  - Point counts, line transects, all-out/opportunistic search
+  - Sound recording (birds), telephoto photography (birds), macro photography
+  - Camera trapping, PCQ vegetation sampling, radio telemetry 
+- Field experience:
+  - Excellent sight and sound ID of birds (India, Europe)
+  - Extensive field experience in diverse and challenging landscapes, habitats and terrains
+
+**Other:**
+
+- Attended workshop titled "Introduction to Remote Sensing using QGIS" at Azim Premji University, Bengaluru, India, 21--25 Nov 2022
+  - Basic principles of remote sensing, characterising different features of land surface, generating maps with land cover statistics
+
+# Field activities
+
+**Organisational:**
+
+- North Wayanad Forest Division Bird Survey (North Wayanad, India), March 2023. Helped formulate survey methodology, and managed technical logistics (eBird as a tool) and data quality.
+- National Seminar DESIEI 2018 (Bengaluru, India), December 2018. Member of Organising Committee; led editorial work including editing, proofreading, typesetting, and publishing of Abstracts book.
+
+**Leading:**
+
+- Led one team in Periyar Bird Survey in Periyar Tiger Reserve (Kerala, India), January 2023
+- Led one team in Attappady Bird Survey in Attappady (Kerala, India), December 2022
+- Led one team in Panna Bird Survey in Panna Tiger Reserve (Madhya Pradesh, India), March 2022
+
+**Other:**
+
+- Contributed to data collection and discussions during the Bengal Florican survey, part of the grassland monitoring project of The Habitats Trust, in Dudhwa--Pilibhit landscape (Uttar Pradesh, India), April 2023
+- Participated in mini-expedition to survey the birds of Betul, an underbirded district (Madhya Pradesh, India), February 2023
+- Participated in Wet Season Survey of [Kerala Bird Atlas](https://birdalliance.in/articles/kerala-bird-atlas-2/) in Silent Valley National Park (Kerala, India), July 2019
+
+# Workshop instruction
+
+- *Using R for analyses using eBird data: An introduction*. At Kerala Bird Monitoring Meet (KBMM), Thrissur, India, in June 2024. Led c. 3 h crash course for c. 20 participant birders.
+- *Analysing eBird data with R*. At Kerala Bird Monitoring Meet (KBMM), Thrissur, India, in June 2023. Led workshop for c. 20 participant birders.
+- *Introduction to Merlin and eBird tools*. At Assam University, Silchar, India, in May 2022. Assisted in short outdoor training session for eight MSc Physics students; introduced features of Merlin Bird ID and eBird Mobile, and demonstrated practical usage; discussed general queries about birds and birding.
+- *Bird monitoring and eBird*. At College of Agriculture, Lembucherra, India, in May 2022. Assisted in indoor workshop for c. 40 participants (students and local birders); provided technical assistance, coordination support, and ad-hoc engagement with audience.
+
+# Other activities
+
+- Volunteer regional reviewer and hotspot editor for eBird India
+- Office hours consultation for individuals or groups on how to analyse eBird data ([link](https://birdcount.in/analysis-consultation/)), 2022--2024
+- Volunteer for various symposia: Bird Monitoring Symposium 2023 (online, Discord), NCF Annual Meet 2022 (Mysuru, India), Bird Monitoring Symposium 2022 (online, Slack)
+
+# Memberships
+
+- 2021--present: State of India's Birds ([website](https://stateofindiasbirds.in/))
+  - Partnership of government and non-government organisations aiming to provide the best data-driven knowledge on the status and conservation of India's birds.
+- 2021--present: Bird Count India ([website](https://birdcount.in/))
+  - Informal collective of organisations, groups, and individuals working together to increase collective knowledge about bird distributions and populations.
+- 2016--19: Green Army
+  - Student group at Christ University aiming to bring together like-minded students and engage in activities related to natural history, ecology, and wildlife conservation.
+
+\pagebreak
 
 **[Goals]{.underline}:**
 
-What are your educational and professional goals as they relate to the spirit this award?
+What are your educational and professional goals as they relate to the spirit of this award?
 
-
+- I consider myself an ecologist interested especially in large-scale questions about how communities assemble and produce interesting patterns of biodiversity. 
+- However, the organism I am most excited by is birds. Over the course of my PhD at LSU, I wish to gain some of the immense ornithological knowledge housed in the Museum of Natural Science as well as in the minds of the diverse ornithologist community here.
+- My professional goal is to establish a career in ecological research, although I am not sure if formal academia is necessarily the right place for me.
+- Specifically, I am fascinated by the neotropics, and wish to contribute in some way to our understanding of neotropical birds.
+- Aside from profession, birding occupies a prominent role in my life and is much more than a hobby. Louisiana offers much excitement and thrill from the birding perspective, and one goal of mine is to thoroughly explore Louisiana's bird life over the course of my PhD. Birding and travel to me have also become inextricably linked, so I hope to not only contribute interesting bird records, but also travel widely and gain a comprehensive understanding about the birds of North America. 
 
 **[Service]{.underline}:**
 
-Steve Cardiff and Donna Dittmann exemplified service and public education not only through their work with strictly scientific organization and publications, but broadly among the birding community, such as through Louisiana Ornithological Society, the Louisiana Bird Records Committee, eBird, American Birding Association, and their creation of the Yellow Rails and Rice Festival.  As a student of Ornithology, how do you intend to use your knowledge and education to promote birding, bird conservation, and ornithology among the public? And why do you feel such service is needed?  Attach separate page if needed.
+Steve Cardiff and Donna Dittmann exemplified service and public education not only through their work with strictly scientific organization and publications, but broadly among the birding community, such as through Louisiana Ornithological Society, the Louisiana Bird Records Committee, eBird, American Birding Association, and their creation of the Yellow Rails and Rice Festival. As a student of Ornithology, how do you intend to use your knowledge and education to promote birding, bird conservation, and ornithology among the public? And why do you feel such service is needed? Attach separate page if needed.
 
-
-
-
-
-
-
+- For more than three years before I started my PhD, I worked in a research position in an [organisation](https://birdcount.in/) whose main aim was to take birding, and thereby nature, to more people. As such, I have gained a fair bit of experience in promoting birding, bird monitoring, and more broadly wildlife conservation to the general public.
+- I think it is extremely important not only to spread this joy in birds and birding to wider audiences, but also to build and strengthen community. This of course fosters stronger connections with nature and helps develop a sense of Place, but it also opens up a new way of experiencing day-to-day life which can be incredibly impactful for many people. 
+- Ultimately, we start wanting to protect something when we start caring for it. So, although individual birders like myself might have primarily selfish reasons to engage in birding, it also indirectly leads to greater good for society in the form of conservation.
+- My previous work back home in India prepared me to be a proactive and responsible member of the birding community, especially in terms of getting new people into the world of birding, whether by organising and/or leading walks, or knowing the appropriate styles and intensities in which to introduce birding to new audiences, or even just trying to make the activity as fun and welcoming as possible for everyone to be comfortable and enjoying themselves. 
+- I hope to continue this kind of service at LSU/Baton Rouge. While my lack of expertise on American birds and present lack of a vehicle does limit the extent to which I can achieve this, I believe many of the skills I have picked up over the years can be applied here nevertheless.
+- I am a strong citizen science enthusiast, and believe in sharing knowledge with others as openly as possible. I have been a strong advocate of eBird for many years, and have served as a regional reviewer and hotspot editor for eBird in India since 2022. During my PhD, I will contribute at least in the form of data (checklists) to eBird.
+- Aside from these, I am also happy to volunteer for various activities, like banding for Louisiana Ornithological Society, specimen preparation for LSU MNS, Christmas Bird Count, etc.
 
 **[Ornithological Interests]{.underline}:**
 
-What are your favorite interests concerning birds, birding, and ornithology?  Why do these things make you passionate within ornithology?  (eg, can include favorite groups of birds, favorite places for birding, and/or personal favorite research topics such as systematics, evolutionary interests, migration, plumage, vocalizations, conservation topics, or other).  
+What are your favorite interests concerning birds, birding, and ornithology? Why do these things make you passionate within ornithology? (eg, can include favorite groups of birds, favorite places for birding, and/or personal favorite research topics such as systematics, evolutionary interests, migration, plumage, vocalizations, conservation topics, or other).  
 
-
-
-
+- I have wide-ranging interests regarding birds, from distributions and habitat specialisation, to migration and vagrancy. My research interests specifically revolve around macroecological patterns and processes. 
+- Although tropical forests were my first love, I have also grown particularly fond of open ecosystems such as dry scrub-thorn savannahs. I find their typically unassuming residents as intriguing and beautiful as their more overtly fascinating forest cousins. The White-naped Tit, a range-restricted Parid that is interestingly specialised to thorny scrub, is one of my favourite birds---not the least because it has shown me a new vocalisation type in each one of my six sightings till date.
+- I get excited about vocalisations; not only do I love birding by ear, but I also love making connections between very different species based on similarities in their vocalisations, often allowing me to travel across geographies. For instance, I recently learned a song variant of American Goldfinch which reminded me of Purple Sunbirds in India, and Common Chaffinches and Willow Warblers in Europe.
+- I always struggle to answer the "favourite bird/species" question, but I have a soft spot for raptors. The first time I remember being vividly and completely awestruck by birds is when I started reading Katherine Applegate's book series "Animorphs". One of the characters gains the ability to turn into a Red-tailed Hawk, and the imagery and descriptions of the times he spent in hawk form left me in awe and wishing I could turn into a raptor myself.
+- I love the incomparable thrill and mental stimulation I get from birding, and I find the activity almost meditative. The fact that there is always more knowledge to gain and skills to improve satisifies my intellectual curiosity but also humbles my ego.
+- Regular local birding (e.g., patch birding) and rarity hunting (e.g., twitching) are generally considered to be a dichotomy, but I find both flavours equally exciting. I love consistent monitoring of local patches, which I see also as increasing my surface area to stumble upon improbabilities of nature. On the other hand, I also love meticulously studying habitat preferences, distributions and habits of specialties beforehand and then doing targeted exploration of species or habitats.
+- I am also very passionate about campus birding. Not only do campuses have surprising levels of diversity, but given the amount of time one tends to spend in them, they can provide great data, including very comprehensive species lists. They are also a great place to introduce new people to birding. And, of course, rarities are much more accessible and rewarding in campuses. There are four campuses that are dear to me: [my undergraduate college campus](https://ebird.org/hotspot/L3349006), [my postgraduate college campus](https://ebird.org/hotspot/L9974526), [Bangalore's famous GKVK Campus](https://ebird.org/hotspot/L2525709), and now [LSU campus](https://ebird.org/hotspot/L366269). 
+- Finally, over the years I have gotten interested in how amateur birding can inspire advances in ornithological knowledge. Although birds are a relatively well-studied group, and ornithology can nowadays seem confined to an ivory tower, I believe that there are many more mysteries about birds just waiting to be discovered, and that the simple activity of birding can have great impacts in this very direction. For instance, I was [recently involved](https://indianbirds.in/wp-content/uploads/2024/09/IB_20_3_ThrikkadeeriETAL_LocustellaJigsaw.pdf) in the revelation that the wintering range of a cryptic *Locustella* warbler was actually spread all across northern Indian floodplain grasslands, and not just the lowlands of western Himalaya as it was earlier believed.
 
 **[References]{.underline}:**
 
 Please provide two references who know you well who are not family.  
 
-Name of Reference #1: 
+Name of Reference #1: Dr Ashwin Viswanathan
 
-Relationship: 
+Relationship: Past academic advisor
 
-Phone number: 
+<!-- Phone number:  -->
 
-Email address: 
+Email address: ashwinv@ncf-india.org
 
 Name of Reference #2: 
 
 Relationship: 
 
-Phone number: 
+<!-- Phone number:  -->
 
 Email address: 
 
