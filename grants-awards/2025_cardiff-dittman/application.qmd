@@ -3,6 +3,7 @@ title: The Cardiff/Dittmann LSU Ornithology Scholarship 2025
 text-align: left
 format: 
   docx:
+    css: rev-list.css
     reference-doc: word_template.docx
 ---
 
@@ -53,7 +54,7 @@ Yes, I am a graduate student. I started my PhD degree in Spring 2025, so I am st
 
 *Please give the name, title, and email address of your current academic Advisor or Academic Mentor.*
 
-- Flavia A Montaño-Centellas 
+- Flavia A Montaño Centellas 
 - Assistant Professor, Department of Biological Sciences, Louisiana State University 
 - fmontano@lsu.edu 
 
@@ -81,7 +82,7 @@ I graduated from high school in 2016.
 
 *What other college(s) did you attend and where? Please include degree earned and year.*
 
-- I completed my undergradute degree (Bachelor of Science in Biotechnology, Chemistry, Zoology) in 2019 from Christ University, Bengaluru, Karnataka, India. 
+- I completed my undergraduate degree (Bachelor of Science in Biotechnology, Chemistry, Zoology) in 2019 from Christ University, Bengaluru, Karnataka, India. 
 - I completed my postgraduate degree (Master of Science in Ecology) in 2021 from University of South Bohemia, České Budějovice, Czechia. 
 
 *Cumulative GPA during pursuit of this degree (on a 4.0 scale):* 
@@ -107,7 +108,7 @@ N/A (I am in my first semester) but current grade is A+.
 
 ## Positions
 
-- **2025--present**: PhD Student & Teaching Assistant at the Department of Biological Sciences in Louisiana State University, Louisiana, USA.
+- **2025--present**: PhD Student & Graduate Assistant at the Department of Biological Sciences in Louisiana State University, Louisiana, USA.
 - **2023--24**: Senior Research Assistant in the Bird Monitoring Team of Nature Conservation Foundation, India.
 - **2022--24**: Data Analyst & Researcher in the State of India's Birds Partnership, India.
 - **2021--23**: Research Assistant in the Bird Monitoring Team of Nature Conservation Foundation, India.
@@ -157,8 +158,8 @@ N/A (I am in my first semester) but current grade is A+.
 
 ### Birding
 
-- **2016--present**: Birded (and eBirded) extensively across diverse landscapes in India, Central Europe, and now the United States. 
 - **2022--present**: eBird regional reviewer and hotspot editor for India.
+- **2016--present**: Birded (and eBirded) extensively across diverse landscapes in India, Central Europe, and now the United States. 
 
 ## Teaching & mentoring in ornithology
 
@@ -183,9 +184,9 @@ N/A (I am in my first semester) but current grade is A+.
 
 *What are your educational and professional goals as they relate to the spirit of this award?*
 
-I consider myself an ecologist interested especially in large-scale questions about how communities assemble and produce interesting patterns of biodiversity. While I prefer a question-oriented approach over a taxon-oriented one, much of my research has, and will, focus on understanding ecological patterns and processes of birds. Over the course of my PhD, I wish to gain some of the immense ornithological knowledge housed in the Museum of Natural Science as well as in the minds of the diverse ornithologist community here, particularly about neotropical birds which I am fascinated by. Coming from a country where natural history museums are almost an afterthought and specimen collection is rare, I would love to delve deeper into this approach and incorporate it in my own project. 
+I consider myself an ecologist interested especially in large-scale questions about how communities assemble and produce interesting patterns of biodiversity. While my curiosity often draws me to several different taxa with varying intensities, my primary research focus has been, and always will be, understanding ecological patterns and processes of birds. I am excited about the opportunity to gain some of the immense ornithological knowledge housed in the LSU Museum of Natural Science as well as in the minds of the diverse ornithologist community here, particularly about neotropical birds which I am fascinated by. Coming from a country where natural history museums are almost an afterthought and specimen collection is a rare privilege, I would love to delve deeper into this approach and incorporate it in my own project. 
 
-My professional goal is to establish a career in ecological research, either in academia or in other applied fields adjacent to academia. Aside from ecology and ornithology, I also find the very process of scientific research intriguing and hope to delve into metascience, thinking about how scientists ask and answer research questions, the quantitative and data analysis techniques they use, and how rigorous the processes upstream of "final" journal publications are.
+My professional goal is to establish a career in ecological research, either in academia or in other applied fields adjacent to academia. Aside from ecology and ornithology, I also find the very process of scientific research intriguing and hope to delve into metascience, thinking about how scientists ask and answer research questions, the quantitative and data analysis techniques they use, and how rigorous the processes upstream of "final" journal publications are. In a scientific domain such as ornithology, the underlying processes that drive the development and discussion of ideas can be as influential as the ideas themselves, in shaping the current and future states of the science---and are therefore worth thinking about.
 
 Aside from profession, birding occupies a prominent role in my life and is much more than a hobby. Louisiana has already offered much excitement and thrill from the birding perspective in my short time here, and one goal of mine is to thoroughly explore Louisiana's bird life over the course of my PhD. Birding and travel to me have also become inextricably linked, so I hope to not only contribute interesting bird records, but also travel widely and gain a comprehensive understanding about the birds, roads, landscapes and cultures of North America. 
 
@@ -193,33 +194,33 @@ Aside from profession, birding occupies a prominent role in my life and is much 
 
 *Steve Cardiff and Donna Dittmann exemplified service and public education not only through their work with strictly scientific organization and publications, but broadly among the birding community, such as through Louisiana Ornithological Society, the Louisiana Bird Records Committee, eBird, American Birding Association, and their creation of the Yellow Rails and Rice Festival. As a student of Ornithology, how do you intend to use your knowledge and education to promote birding, bird conservation, and ornithology among the public? And why do you feel such service is needed? Attach separate page if needed.*
 
-For more than three years before I started my PhD, I worked in a research position in an organisation, [Bird Count India](https://birdcount.in/), whose main aim was to take birding (and thereby nature) to more people. Through this position, I gained experience in promoting birding, bird monitoring, and more broadly wildlife conservation to the general public. More fundamentally, it taught me how to be a proactive and responsible member of the birding community, especially when it comes to bringing new people into the world of birding, which involves several aspects from organising and leading walks, to more intricate soft skills like knowing the appropriate intensities and styles for different audiences or even just making the activity as fun, welcoming, comfortable and enjoyable as possible for everyone involved.
+For more than three years before I started my PhD, I worked in a research position in an organisation, [Bird Count India](https://birdcount.in/), whose main aim was to take birding (and thereby nature) to more people. Through this position, I gained experience in promoting birding, bird monitoring, and more broadly wildlife conservation to the general public. More fundamentally, it taught me how to be a proactive and responsible member of the birding community, especially when it comes to bringing new people into the world of birding---which involves several aspects from organising and leading walks, to more intricate soft skills like knowing the appropriate intensities and styles for different audiences or even just making the activity as fun, welcoming, comfortable and enjoyable as possible for everyone involved.
 
-I think it is extremely important to spread this joy in birds and birding to wider audiences, as well as to build and strengthen community. This not only fosters stronger connections for people with nature and helps them develop a sense of Place, but it also opens up a new way of experiencing day-to-day life which can be incredibly impactful for many people. Ultimately, we start wanting to protect something when we start caring for it. So, although individual birders like myself might have primarily selfish reasons to engage in birding, building community also indirectly leads to greater good for society in the form of conservation of the birds, nature and landscapes we love and depend on.
+I think it is extremely important to spread this joy in birds and birding to wider audiences, as well as to build and strengthen community. This not only fosters stronger connections for people with nature and helps them develop a sense of Place, but it also opens up a new way of experiencing day-to-day life which can be incredibly impactful. Ultimately, we start wanting to protect something when we start caring for it. So, although individual birders like myself might have primarily selfish reasons to engage in birding, building community also indirectly leads to greater good for society in the form of conservation of the birds, nature and landscapes we love and depend on.
 
 My previous work in India was transformational and helped me discover a new way of connecting with people. I hope to continue this at LSU/Baton Rouge, engaging in efforts to bring people and nature closer through the lively medium of birds. I have only been here for four months now, so I am still building up my knowledge of American birds, and I also currently do not have a vehicle. While these do limit the extent to which I can engage, I believe many of the skills I have picked up over the years can be applied here nevertheless. 
 
 Indeed, I have been trying to welcome people opportunistically whenever I am out birding myself and get asked questions. Sometimes, the simple act of seeing a tiny bird through binoculars can alone spark an interest. I have been promoting birding and sharing bird knowledge and resources with curious Introductory Biology students I teach. I have volunteered for activities like the Baton Rouge Christmas Bird Count as well as banding for the Louisiana Ornithological Society, and will continue to do so. In the future, I would also love to volunteer for specimen preparation at the LSU Museum of Natural Science. 
 
-I believe in sharing knowledge with others as openly as possible, and am a strong citizen science and eBird enthusiast, having served as a regional reviewer and hotspot editor for eBird in India since 2022. I am also committed to regular birding, and I will continue to contribute high resolution eBird data from the LSU campus and surroundings as well as everywhere else I find myself. I would also love to utilise my previous experience leading workshops to share my specific skillsets in quantitative methods and reproducible programming, and specifically analysing eBird data, to other interested ornithologists and ecologists. 
+I believe in sharing knowledge with others as openly as possible, and am a strong citizen science and eBird enthusiast, having served as a regional reviewer and hotspot editor for eBird in India since 2022. I am also committed to regular birding, and I will continue to contribute high resolution eBird data from the LSU campus and surroundings as well as everywhere else I find myself. Further, I would also love to utilise my previous experience leading workshops in order to share my specific skillsets in quantitative methods and reproducible programming, and specifically analysing eBird data, to other interested ornithologists and ecologists. 
 
 # Ornithological Interests
 
 *What are your favorite interests concerning birds, birding, and ornithology? Why do these things make you passionate within ornithology? (eg, can include favorite groups of birds, favorite places for birding, and/or personal favorite research topics such as systematics, evolutionary interests, migration, plumage, vocalizations, conservation topics, or other).* 
 
-I have wide-ranging ecological and ornithological interests, from distributions and habitat associations, to migration and vagrancy. My research interests specifically revolve around macroecological patterns and the mechanisms that maintain them. 
+I have wide-ranging ornithological and ecological interests, from distributions and habitat associations, to migration and vagrancy. My research interests specifically revolve around macroecological patterns and the mechanisms that maintain them. 
 
-Reading vivid descriptions of a teenage boy who would transform into a Red-tailed Hawk, in Katherine Applegate's "Animorphs" series, was the first time I was awestruck by a bird, so I have a soft spot for raptors. However, I am intrigued by not just birds, but also the habitats and landscapes that support them. Although tropical forests were my first love, I have also grown particularly fond of open ecosystems such as dry scrub-thorn savannahs. I find the typically unassuming residents of these landscapes as intriguing and beautiful as their more overtly fascinating forest cousins. The White-naped Tit, a range-restricted Parid that is interestingly specialised to thorny scrub, is one of my favourite birds---not the least because it has shown me a new vocalisation type in each one of my six sightings till date.
+The first time I was awestruck by a bird was when reading vivid descriptions of a teenage boy who would transform into a Red-tailed Hawk, in Katherine Applegate's "Animorphs" series. That awe has not left me since then, and I therefore have a soft spot for raptors. However, I am intrigued by not just birds, but also the habitats and landscapes that support them. Although tropical forests were my first love, I have also grown particularly fond of open ecosystems such as dry scrub-thorn savannahs. I find the typically unassuming residents of these landscapes as intriguing and beautiful as their more overtly fascinating forest cousins. The White-naped Tit, a range-restricted Parid that is interestingly specialised to thorny scrub, is one of my favourite birds---not the least because it has shown me a new vocalisation type in each one of my six sightings till date.
 
 I get excited about vocalisations; not only do I love birding by ear, but I also love making connections between very different species based on similarities in their vocalisations, often allowing me to "travel" across geographies. For instance, I recently learned a song variant of American Goldfinch which took me to Purple Sunbirds in India, and Common Chaffinches and Willow Warblers in Europe.
 
-I love the incomparable thrill and mental stimulation I get from birding, and I find the activity almost meditative. Getting into birding for the first time was transformational, completely changing my day-to-day lived experience. At the same time, the fact that there is always more knowledge to gain and skills to improve satisifies my intellectual curiosity but also humbles my ego.
+I love the incomparable thrill and mental stimulation I get from birding, and I find the activity almost meditative. Getting into birding for the first time was transformational, completely changing my day-to-day lived experience. At the same time, the fact that there is always more knowledge to gain and skills to improve satisfies my intellectual curiosity but also humbles my ego.
 
-Regular local birding (e.g., patch birding) and rarity hunting (e.g., twitching) are typically thought of as a dichotomy, but I find both flavours equally exciting. I love consistent monitoring of local patches, which I see also as increasing my surface area to stumble upon the improbabilities and vagaries of nature. On the other hand, I also love meticulously studying habitat preferences, distributions and habits of specialties to then do targeted exploration of species or habitats.
+Regular local birding (e.g., patch birding) and rarity hunting (e.g., twitching) are typically thought of as a dichotomy, but I find both flavours equally exciting. I love consistent monitoring of local patches, which I see also as increasing my surface area to stumble upon the improbabilities and vagaries of nature. On the other hand, I also love meticulously studying habitat preferences, distributions and habits of specialities, to then do targeted exploration of species or habitats.
 
-I am very passionate about campus birding. Not only do campuses have surprising levels of diversity, but given the amount of time one tends to spend in them, they can provide great birding and rich data, including very comprehensive species lists. They are also a great place to introduce new people to birding. And, of course, rarities are much more accessible and rewarding in campuses. There are four campuses that are dear to me: [my undergraduate college campus](https://ebird.org/hotspot/L3349006), [my postgraduate college campus](https://ebird.org/hotspot/L9974526), [Bangalore's famous GKVK Campus](https://ebird.org/hotspot/L2525709), and now [LSU campus](https://ebird.org/hotspot/L366269). 
+I am very passionate about campus birding. Not only do campuses have surprising levels of diversity, but given the amount of time we tend to spend in or near them, they can provide great birding and rich data, including very comprehensive species lists. They are also a great place to introduce new people to birding. And, of course, rarities are much more accessible and rewarding in campuses. There are four campuses that are dear to me: [my undergraduate college campus](https://ebird.org/hotspot/L3349006), [my postgraduate college campus](https://ebird.org/hotspot/L9974526), [Bangalore's famous GKVK Campus](https://ebird.org/hotspot/L2525709), and now [LSU campus](https://ebird.org/hotspot/L366269). 
 
-Finally, over the years I have gotten interested in how amateur birding can inspire advances in ornithological knowledge. Although birds are a relatively well-studied group, and ornithology can nowadays seem confined to an ivory tower, I believe that there are many more mysteries about birds just waiting to be discovered, and that the simple activity of birding can have great impacts in this very direction. For instance, I was [recently involved](https://indianbirds.in/wp-content/uploads/2024/09/IB_20_3_ThrikkadeeriETAL_LocustellaJigsaw.pdf) in the revelation that the wintering range of a cryptic *Locustella* warbler actually spanned all across northern Indian floodplain grasslands, and not just the lowlands of western Himalaya as it was earlier believed.
+Finally, over the years I have gotten interested in how amateur birding can inspire advances in ornithological knowledge. Although birds are a relatively well-studied group and ornithology can nowadays seem confined to an ivory tower, I believe that there are many more mysteries about birds just waiting to be discovered, and that the simple activity of birding can have great impacts in this very direction. For instance, I was [recently involved](https://indianbirds.in/wp-content/uploads/2024/09/IB_20_3_ThrikkadeeriETAL_LocustellaJigsaw.pdf) in the revelation that the wintering range of a cryptic *Locustella* warbler actually spanned all across northern Indian floodplain grasslands, and not just the lowlands of western Himalaya as it was earlier believed.
 
 {{< pagebreak >}}
 
@@ -229,11 +230,11 @@ Please provide two references who know you well who are not family.
 
 **Reference #1**
 
-Name: Dr Flavia A Montaño-Centellas 
+Name: Dr Flavia A Montaño Centellas 
 
 Relationship: Current PhD advisor
 
-<!-- Phone number:  -->
+Phone number:
 
 Email address: fmontano@lsu.edu
 
@@ -243,7 +244,7 @@ Name: Dr Ashwin Viswanathan
 
 Relationship: Past academic advisor
 
-<!-- Phone number:  -->
+Phone number:
 
 Email address: ashwinv@ncf-india.org
 
@@ -251,8 +252,10 @@ Email address: ashwinv@ncf-india.org
 
 By signing below, you certify that all information supplied by you within this application is completely true and current. You also give your understanding that LOS is reliant on said information in order to determine the most deserving applicant and that if information is within is reported by you is found to be untrue, fabricated, or misleading, LOS may have cause to report this action to your current Advisor and/or your department Chairperson.  
 
-(your full name; please print)							(today’s date)
+Karthik Thrikkadeeri
 
-(your signature)
+30 April 2025
+
+\n\n <!-- (your signature) -->
 
 For inquiries concerning the award process, you may contact the LOS Treasurer, Mark Pethke, at mdpethke@gmail.com. Otherwise, you will be contacted as soon as LOS has determined the recipient, regardless of whom. All applicants who do not receive the award are encouraged to re-apply next year, provided all eligibility requirements are still met. You may return the completed application via PDF or Word doc to Mark Pethke at mdpethke@gmail.com or you may mail the completed application to Mark Pethke, 5655 Hickory Ridge Blvd, Baton Rouge, LA 70817. Please retain a copy for your personal records.
